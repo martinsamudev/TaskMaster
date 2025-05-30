@@ -1,6 +1,6 @@
-# TaskMaker
+# TaskMaster
 
-TaskMaker es una aplicación de consola escrita en Java que te permite gestionar tus tareas de manera fácil y eficiente. 
+TaskMaster es una aplicación de consola escrita en Java que te permite gestionar tus tareas de manera fácil y eficiente. 
 
 ## Funcionalidades
 
